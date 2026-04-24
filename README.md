@@ -225,15 +225,6 @@ A web-based system empowering farmers with an accessible query and advisory inte
 
 ---
 
-## 🌱 Currently
-
-- 🔬 Advancing **AutoDry** toward enterprise-ready deployment
-- 📖 Deepening expertise in **LLM fine-tuning** and **edge AI**
-- 🌐 Exploring **distributed systems** and **cloud-native architectures**
-- 🎯 Preparing for research contributions in **AI × IoT**
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -244,7 +235,7 @@ A web-based system empowering farmers with an accessible query and advisory inte
 
 <br/>
 
-![Profile Views](https://profile-counter.glitch.me/atharvamw/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atharvamw.atharvamw)
 
 </div>
 
